@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DLCache_Example' do
+  pod 'DLCache', :path => '../'
+
+  target 'DLCache_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

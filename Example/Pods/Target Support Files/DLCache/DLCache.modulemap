@@ -1,0 +1,6 @@
+framework module DLCache {
+  umbrella header "DLCache-umbrella.h"
+
+  export *
+  module * { export * }
+}

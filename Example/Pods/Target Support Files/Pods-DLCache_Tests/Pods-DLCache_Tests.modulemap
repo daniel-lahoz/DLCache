@@ -1,0 +1,6 @@
+framework module Pods_DLCache_Tests {
+  umbrella header "Pods-DLCache_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

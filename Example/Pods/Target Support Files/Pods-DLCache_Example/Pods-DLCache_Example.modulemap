@@ -1,0 +1,6 @@
+framework module Pods_DLCache_Example {
+  umbrella header "Pods-DLCache_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

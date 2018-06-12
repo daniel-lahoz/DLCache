@@ -1,0 +1,27 @@
+{
+  "name": "DLCache",
+  "version": "0.1.0",
+  "summary": "Get JSON APIs responses and always Cached on USerDefaults",
+  "description": "Get JSON APIs responses and always Cached on USerDefaults using a Hash system for url and POST data",
+  "homepage": "https://github.com/Daniel Lahoz/DLCache",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Daniel Lahoz": "daniel.lahoz@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Daniel Lahoz/DLCache.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DLCache/Classes/**/*",
+  "dependencies": {
+    "SwiftHash": [
+
+    ]
+  }
+}
