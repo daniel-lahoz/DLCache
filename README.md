@@ -1,6 +1,5 @@
 # DLCache
 
-[![CI Status](http://img.shields.io/travis/Daniel Lahoz/DLCache.svg?style=flat)](https://travis-ci.org/Daniel Lahoz/DLCache)
 [![Version](https://img.shields.io/cocoapods/v/DLCache.svg?style=flat)](http://cocoapods.org/pods/DLCache)
 [![License](https://img.shields.io/cocoapods/l/DLCache.svg?style=flat)](http://cocoapods.org/pods/DLCache)
 [![Platform](https://img.shields.io/cocoapods/p/DLCache.svg?style=flat)](http://cocoapods.org/pods/DLCache)
